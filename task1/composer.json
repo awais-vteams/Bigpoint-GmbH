@@ -1,0 +1,20 @@
+{
+    "name": "bigpoint/assessment",
+    "type": "project",
+    "require-dev": {
+        "php": ">=8.1.0",
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bigpoint\\Assessment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Awais",
+            "email": "asargodha@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
